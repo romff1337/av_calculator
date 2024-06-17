@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     justify-content: center;
-    display: inline;
+    display: flexbox;
     align-items: center;
     height: 100vh;
     color: white;
@@ -23,6 +23,7 @@ button {
     cursor: auto;
     border-radius: 100%;
     font-weight: bold;
+
 }
 
 .average-container {
